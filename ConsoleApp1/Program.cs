@@ -21,6 +21,8 @@ namespace ConsoleApp1
                 Console.WriteLine("Enter third coefficient - c");
                 c = Convert.ToInt32(Console.ReadLine());
                 double Discriminator = Math.Pow(b, 2) - 4 * a * c;
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.WriteLine($"Discriminator = {Discriminator}");
                 if (Discriminator == 0)
                 {
                     x1 = x2 = -b / 2 * a;

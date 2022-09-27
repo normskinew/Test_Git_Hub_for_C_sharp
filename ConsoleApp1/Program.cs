@@ -9,7 +9,7 @@ namespace ConsoleApp1
             string answer;
             do
             {
-                Console.Title = "Home_Work_leasson_3";
+                Console.Title = "Home_Work_leasson_3_task(1)";
                 int a, b, c;
                 
                 double x1 = 0, x2 = 0;

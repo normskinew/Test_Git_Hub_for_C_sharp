@@ -12,6 +12,7 @@ namespace ConsoleApp2
             x = _randomGenerator.Next(-120, 120);
             y = _randomGenerator.Next(-120, 120);
             int[] radiusMass = new int[11] { 0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 };
+            Console.Title = "Home_work_4_tasl_(1)";
             Console.WriteLine("Hello, user! Let's play the game? \nPress (y/n) to continue");
             answer = Console.ReadLine();
             if (answer == "y")

@@ -1,0 +1,16 @@
+E:\Temp_files\C#_training\Home_Work_5\bin\Debug\net5.0\Home_Work_5.exe
+E:\Temp_files\C#_training\Home_Work_5\bin\Debug\net5.0\Home_Work_5.deps.json
+E:\Temp_files\C#_training\Home_Work_5\bin\Debug\net5.0\Home_Work_5.runtimeconfig.json
+E:\Temp_files\C#_training\Home_Work_5\bin\Debug\net5.0\Home_Work_5.runtimeconfig.dev.json
+E:\Temp_files\C#_training\Home_Work_5\bin\Debug\net5.0\Home_Work_5.dll
+E:\Temp_files\C#_training\Home_Work_5\bin\Debug\net5.0\Home_Work_5.pdb
+E:\Temp_files\C#_training\Home_Work_5\obj\Debug\net5.0\Home_Work_5.csproj.AssemblyReference.cache
+E:\Temp_files\C#_training\Home_Work_5\obj\Debug\net5.0\Home_Work_5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Temp_files\C#_training\Home_Work_5\obj\Debug\net5.0\Home_Work_5.AssemblyInfoInputs.cache
+E:\Temp_files\C#_training\Home_Work_5\obj\Debug\net5.0\Home_Work_5.AssemblyInfo.cs
+E:\Temp_files\C#_training\Home_Work_5\obj\Debug\net5.0\Home_Work_5.csproj.CoreCompileInputs.cache
+E:\Temp_files\C#_training\Home_Work_5\obj\Debug\net5.0\Home_Work_5.dll
+E:\Temp_files\C#_training\Home_Work_5\obj\Debug\net5.0\refint\Home_Work_5.dll
+E:\Temp_files\C#_training\Home_Work_5\obj\Debug\net5.0\Home_Work_5.pdb
+E:\Temp_files\C#_training\Home_Work_5\obj\Debug\net5.0\Home_Work_5.genruntimeconfig.cache
+E:\Temp_files\C#_training\Home_Work_5\obj\Debug\net5.0\ref\Home_Work_5.dll

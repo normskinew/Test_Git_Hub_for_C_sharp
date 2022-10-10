@@ -9,6 +9,7 @@ namespace Home_Work_5
     {
         static void Main(string[] args)
         {
+            Console.Title = "Temperature_Convertor";
             string answer;
 
             Console.WriteLine("This program provide convertation of temp degrees : Kelvin, Celsium, FahrenHait");
@@ -70,18 +71,35 @@ namespace Home_Work_5
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("Would you like to convert some degree again?\nPrint (yes/no) to continue");
                 answer = Console.ReadLine();
-                
-            } while (answer =="yes");
+
+            } while (answer == "yes");
 
 
-
-
-
-
-
+            /* 
+                Console.Title = "Factorial";
+                Console.WriteLine("Enter number");
+                long n = long.Parse(Console.ReadLine());
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Factorial is " + recFunk(n));
+                Console.ReadKey();
             
+             static long recFunk(long n)
+             {
+                if (n == 0)
+                    return 1;
+                else
+                    return recFunk(n - 1) * n;
+
+             }
+
+            */
+
+
+
+
+
         }
-       
+
 
     }
 }

@@ -1,0 +1,15 @@
+E:\Temp_files\C#_training\Training_Class\bin\Debug\net6.0\Training_Class.exe
+E:\Temp_files\C#_training\Training_Class\bin\Debug\net6.0\Training_Class.deps.json
+E:\Temp_files\C#_training\Training_Class\bin\Debug\net6.0\Training_Class.runtimeconfig.json
+E:\Temp_files\C#_training\Training_Class\bin\Debug\net6.0\Training_Class.dll
+E:\Temp_files\C#_training\Training_Class\bin\Debug\net6.0\Training_Class.pdb
+E:\Temp_files\C#_training\Training_Class\obj\Debug\net6.0\Training_Class.csproj.AssemblyReference.cache
+E:\Temp_files\C#_training\Training_Class\obj\Debug\net6.0\Training_Class.GeneratedMSBuildEditorConfig.editorconfig
+E:\Temp_files\C#_training\Training_Class\obj\Debug\net6.0\Training_Class.AssemblyInfoInputs.cache
+E:\Temp_files\C#_training\Training_Class\obj\Debug\net6.0\Training_Class.AssemblyInfo.cs
+E:\Temp_files\C#_training\Training_Class\obj\Debug\net6.0\Training_Class.csproj.CoreCompileInputs.cache
+E:\Temp_files\C#_training\Training_Class\obj\Debug\net6.0\Training_Class.dll
+E:\Temp_files\C#_training\Training_Class\obj\Debug\net6.0\refint\Training_Class.dll
+E:\Temp_files\C#_training\Training_Class\obj\Debug\net6.0\Training_Class.pdb
+E:\Temp_files\C#_training\Training_Class\obj\Debug\net6.0\Training_Class.genruntimeconfig.cache
+E:\Temp_files\C#_training\Training_Class\obj\Debug\net6.0\ref\Training_Class.dll

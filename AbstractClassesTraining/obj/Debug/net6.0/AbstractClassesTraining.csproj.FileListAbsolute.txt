@@ -1,0 +1,15 @@
+E:\Temp_files\C#_training\AbstractClassesTraining\bin\Debug\net6.0\AbstractClassesTraining.exe
+E:\Temp_files\C#_training\AbstractClassesTraining\bin\Debug\net6.0\AbstractClassesTraining.deps.json
+E:\Temp_files\C#_training\AbstractClassesTraining\bin\Debug\net6.0\AbstractClassesTraining.runtimeconfig.json
+E:\Temp_files\C#_training\AbstractClassesTraining\bin\Debug\net6.0\AbstractClassesTraining.dll
+E:\Temp_files\C#_training\AbstractClassesTraining\bin\Debug\net6.0\AbstractClassesTraining.pdb
+E:\Temp_files\C#_training\AbstractClassesTraining\obj\Debug\net6.0\AbstractClassesTraining.csproj.AssemblyReference.cache
+E:\Temp_files\C#_training\AbstractClassesTraining\obj\Debug\net6.0\AbstractClassesTraining.GeneratedMSBuildEditorConfig.editorconfig
+E:\Temp_files\C#_training\AbstractClassesTraining\obj\Debug\net6.0\AbstractClassesTraining.AssemblyInfoInputs.cache
+E:\Temp_files\C#_training\AbstractClassesTraining\obj\Debug\net6.0\AbstractClassesTraining.AssemblyInfo.cs
+E:\Temp_files\C#_training\AbstractClassesTraining\obj\Debug\net6.0\AbstractClassesTraining.csproj.CoreCompileInputs.cache
+E:\Temp_files\C#_training\AbstractClassesTraining\obj\Debug\net6.0\AbstractClassesTraining.dll
+E:\Temp_files\C#_training\AbstractClassesTraining\obj\Debug\net6.0\refint\AbstractClassesTraining.dll
+E:\Temp_files\C#_training\AbstractClassesTraining\obj\Debug\net6.0\AbstractClassesTraining.pdb
+E:\Temp_files\C#_training\AbstractClassesTraining\obj\Debug\net6.0\AbstractClassesTraining.genruntimeconfig.cache
+E:\Temp_files\C#_training\AbstractClassesTraining\obj\Debug\net6.0\ref\AbstractClassesTraining.dll

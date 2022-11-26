@@ -1,0 +1,15 @@
+E:\Temp_files\C#_training\AbstractHomeWork\bin\Debug\net6.0\AbstractHomeWork.exe
+E:\Temp_files\C#_training\AbstractHomeWork\bin\Debug\net6.0\AbstractHomeWork.deps.json
+E:\Temp_files\C#_training\AbstractHomeWork\bin\Debug\net6.0\AbstractHomeWork.runtimeconfig.json
+E:\Temp_files\C#_training\AbstractHomeWork\bin\Debug\net6.0\AbstractHomeWork.dll
+E:\Temp_files\C#_training\AbstractHomeWork\bin\Debug\net6.0\AbstractHomeWork.pdb
+E:\Temp_files\C#_training\AbstractHomeWork\obj\Debug\net6.0\AbstractHomeWork.csproj.AssemblyReference.cache
+E:\Temp_files\C#_training\AbstractHomeWork\obj\Debug\net6.0\AbstractHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Temp_files\C#_training\AbstractHomeWork\obj\Debug\net6.0\AbstractHomeWork.AssemblyInfoInputs.cache
+E:\Temp_files\C#_training\AbstractHomeWork\obj\Debug\net6.0\AbstractHomeWork.AssemblyInfo.cs
+E:\Temp_files\C#_training\AbstractHomeWork\obj\Debug\net6.0\AbstractHomeWork.csproj.CoreCompileInputs.cache
+E:\Temp_files\C#_training\AbstractHomeWork\obj\Debug\net6.0\AbstractHomeWork.dll
+E:\Temp_files\C#_training\AbstractHomeWork\obj\Debug\net6.0\refint\AbstractHomeWork.dll
+E:\Temp_files\C#_training\AbstractHomeWork\obj\Debug\net6.0\AbstractHomeWork.pdb
+E:\Temp_files\C#_training\AbstractHomeWork\obj\Debug\net6.0\AbstractHomeWork.genruntimeconfig.cache
+E:\Temp_files\C#_training\AbstractHomeWork\obj\Debug\net6.0\ref\AbstractHomeWork.dll

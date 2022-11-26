@@ -1,0 +1,15 @@
+E:\Temp_files\C#_training\Enumerators.Interface\bin\Debug\net6.0\Enumerators.Interface.exe
+E:\Temp_files\C#_training\Enumerators.Interface\bin\Debug\net6.0\Enumerators.Interface.deps.json
+E:\Temp_files\C#_training\Enumerators.Interface\bin\Debug\net6.0\Enumerators.Interface.runtimeconfig.json
+E:\Temp_files\C#_training\Enumerators.Interface\bin\Debug\net6.0\Enumerators.Interface.dll
+E:\Temp_files\C#_training\Enumerators.Interface\bin\Debug\net6.0\Enumerators.Interface.pdb
+E:\Temp_files\C#_training\Enumerators.Interface\obj\Debug\net6.0\Enumerators.Interface.csproj.AssemblyReference.cache
+E:\Temp_files\C#_training\Enumerators.Interface\obj\Debug\net6.0\Enumerators.Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Temp_files\C#_training\Enumerators.Interface\obj\Debug\net6.0\Enumerators.Interface.AssemblyInfoInputs.cache
+E:\Temp_files\C#_training\Enumerators.Interface\obj\Debug\net6.0\Enumerators.Interface.AssemblyInfo.cs
+E:\Temp_files\C#_training\Enumerators.Interface\obj\Debug\net6.0\Enumerators.Interface.csproj.CoreCompileInputs.cache
+E:\Temp_files\C#_training\Enumerators.Interface\obj\Debug\net6.0\Enumerators.Interface.dll
+E:\Temp_files\C#_training\Enumerators.Interface\obj\Debug\net6.0\refint\Enumerators.Interface.dll
+E:\Temp_files\C#_training\Enumerators.Interface\obj\Debug\net6.0\Enumerators.Interface.pdb
+E:\Temp_files\C#_training\Enumerators.Interface\obj\Debug\net6.0\Enumerators.Interface.genruntimeconfig.cache
+E:\Temp_files\C#_training\Enumerators.Interface\obj\Debug\net6.0\ref\Enumerators.Interface.dll

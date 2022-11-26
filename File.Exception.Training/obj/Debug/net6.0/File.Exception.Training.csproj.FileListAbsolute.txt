@@ -1,0 +1,15 @@
+E:\Temp_files\C#_training\File.Exception.Training\bin\Debug\net6.0\File.Exception.Training.exe
+E:\Temp_files\C#_training\File.Exception.Training\bin\Debug\net6.0\File.Exception.Training.deps.json
+E:\Temp_files\C#_training\File.Exception.Training\bin\Debug\net6.0\File.Exception.Training.runtimeconfig.json
+E:\Temp_files\C#_training\File.Exception.Training\bin\Debug\net6.0\File.Exception.Training.dll
+E:\Temp_files\C#_training\File.Exception.Training\bin\Debug\net6.0\File.Exception.Training.pdb
+E:\Temp_files\C#_training\File.Exception.Training\obj\Debug\net6.0\File.Exception.Training.csproj.AssemblyReference.cache
+E:\Temp_files\C#_training\File.Exception.Training\obj\Debug\net6.0\File.Exception.Training.GeneratedMSBuildEditorConfig.editorconfig
+E:\Temp_files\C#_training\File.Exception.Training\obj\Debug\net6.0\File.Exception.Training.AssemblyInfoInputs.cache
+E:\Temp_files\C#_training\File.Exception.Training\obj\Debug\net6.0\File.Exception.Training.AssemblyInfo.cs
+E:\Temp_files\C#_training\File.Exception.Training\obj\Debug\net6.0\File.Exception.Training.csproj.CoreCompileInputs.cache
+E:\Temp_files\C#_training\File.Exception.Training\obj\Debug\net6.0\File.Exception.Training.dll
+E:\Temp_files\C#_training\File.Exception.Training\obj\Debug\net6.0\refint\File.Exception.Training.dll
+E:\Temp_files\C#_training\File.Exception.Training\obj\Debug\net6.0\File.Exception.Training.pdb
+E:\Temp_files\C#_training\File.Exception.Training\obj\Debug\net6.0\File.Exception.Training.genruntimeconfig.cache
+E:\Temp_files\C#_training\File.Exception.Training\obj\Debug\net6.0\ref\File.Exception.Training.dll

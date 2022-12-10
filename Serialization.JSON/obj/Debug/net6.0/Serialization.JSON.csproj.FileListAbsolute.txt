@@ -1,0 +1,15 @@
+E:\Temp_files\C#_training\Serialization.JSON\bin\Debug\net6.0\Serialization.JSON.exe
+E:\Temp_files\C#_training\Serialization.JSON\bin\Debug\net6.0\Serialization.JSON.deps.json
+E:\Temp_files\C#_training\Serialization.JSON\bin\Debug\net6.0\Serialization.JSON.runtimeconfig.json
+E:\Temp_files\C#_training\Serialization.JSON\bin\Debug\net6.0\Serialization.JSON.dll
+E:\Temp_files\C#_training\Serialization.JSON\bin\Debug\net6.0\Serialization.JSON.pdb
+E:\Temp_files\C#_training\Serialization.JSON\obj\Debug\net6.0\Serialization.JSON.csproj.AssemblyReference.cache
+E:\Temp_files\C#_training\Serialization.JSON\obj\Debug\net6.0\Serialization.JSON.GeneratedMSBuildEditorConfig.editorconfig
+E:\Temp_files\C#_training\Serialization.JSON\obj\Debug\net6.0\Serialization.JSON.AssemblyInfoInputs.cache
+E:\Temp_files\C#_training\Serialization.JSON\obj\Debug\net6.0\Serialization.JSON.AssemblyInfo.cs
+E:\Temp_files\C#_training\Serialization.JSON\obj\Debug\net6.0\Serialization.JSON.csproj.CoreCompileInputs.cache
+E:\Temp_files\C#_training\Serialization.JSON\obj\Debug\net6.0\Serialization.JSON.dll
+E:\Temp_files\C#_training\Serialization.JSON\obj\Debug\net6.0\refint\Serialization.JSON.dll
+E:\Temp_files\C#_training\Serialization.JSON\obj\Debug\net6.0\Serialization.JSON.pdb
+E:\Temp_files\C#_training\Serialization.JSON\obj\Debug\net6.0\Serialization.JSON.genruntimeconfig.cache
+E:\Temp_files\C#_training\Serialization.JSON\obj\Debug\net6.0\ref\Serialization.JSON.dll

@@ -1,0 +1,15 @@
+E:\Temp_files\C#_training\Threading.MultiThreading\obj\Debug\net6.0\Threading.MultiThreading.csproj.AssemblyReference.cache
+E:\Temp_files\C#_training\Threading.MultiThreading\obj\Debug\net6.0\Threading.MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+E:\Temp_files\C#_training\Threading.MultiThreading\obj\Debug\net6.0\Threading.MultiThreading.AssemblyInfoInputs.cache
+E:\Temp_files\C#_training\Threading.MultiThreading\obj\Debug\net6.0\Threading.MultiThreading.AssemblyInfo.cs
+E:\Temp_files\C#_training\Threading.MultiThreading\obj\Debug\net6.0\Threading.MultiThreading.csproj.CoreCompileInputs.cache
+E:\Temp_files\C#_training\Threading.MultiThreading\bin\Debug\net6.0\Threading.MultiThreading.exe
+E:\Temp_files\C#_training\Threading.MultiThreading\bin\Debug\net6.0\Threading.MultiThreading.deps.json
+E:\Temp_files\C#_training\Threading.MultiThreading\bin\Debug\net6.0\Threading.MultiThreading.runtimeconfig.json
+E:\Temp_files\C#_training\Threading.MultiThreading\bin\Debug\net6.0\Threading.MultiThreading.dll
+E:\Temp_files\C#_training\Threading.MultiThreading\bin\Debug\net6.0\Threading.MultiThreading.pdb
+E:\Temp_files\C#_training\Threading.MultiThreading\obj\Debug\net6.0\Threading.MultiThreading.dll
+E:\Temp_files\C#_training\Threading.MultiThreading\obj\Debug\net6.0\refint\Threading.MultiThreading.dll
+E:\Temp_files\C#_training\Threading.MultiThreading\obj\Debug\net6.0\Threading.MultiThreading.pdb
+E:\Temp_files\C#_training\Threading.MultiThreading\obj\Debug\net6.0\Threading.MultiThreading.genruntimeconfig.cache
+E:\Temp_files\C#_training\Threading.MultiThreading\obj\Debug\net6.0\ref\Threading.MultiThreading.dll

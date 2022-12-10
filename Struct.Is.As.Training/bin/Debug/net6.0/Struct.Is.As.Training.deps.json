@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Struct.Is.As.Training/1.0.0": {
+        "runtime": {
+          "Struct.Is.As.Training.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Struct.Is.As.Training/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

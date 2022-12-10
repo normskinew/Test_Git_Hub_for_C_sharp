@@ -1,0 +1,15 @@
+E:\Temp_files\C#_training\Struct.Is.As.Training\bin\Debug\net6.0\Struct.Is.As.Training.exe
+E:\Temp_files\C#_training\Struct.Is.As.Training\bin\Debug\net6.0\Struct.Is.As.Training.deps.json
+E:\Temp_files\C#_training\Struct.Is.As.Training\bin\Debug\net6.0\Struct.Is.As.Training.runtimeconfig.json
+E:\Temp_files\C#_training\Struct.Is.As.Training\bin\Debug\net6.0\Struct.Is.As.Training.dll
+E:\Temp_files\C#_training\Struct.Is.As.Training\bin\Debug\net6.0\Struct.Is.As.Training.pdb
+E:\Temp_files\C#_training\Struct.Is.As.Training\obj\Debug\net6.0\Struct.Is.As.Training.csproj.AssemblyReference.cache
+E:\Temp_files\C#_training\Struct.Is.As.Training\obj\Debug\net6.0\Struct.Is.As.Training.GeneratedMSBuildEditorConfig.editorconfig
+E:\Temp_files\C#_training\Struct.Is.As.Training\obj\Debug\net6.0\Struct.Is.As.Training.AssemblyInfoInputs.cache
+E:\Temp_files\C#_training\Struct.Is.As.Training\obj\Debug\net6.0\Struct.Is.As.Training.AssemblyInfo.cs
+E:\Temp_files\C#_training\Struct.Is.As.Training\obj\Debug\net6.0\Struct.Is.As.Training.csproj.CoreCompileInputs.cache
+E:\Temp_files\C#_training\Struct.Is.As.Training\obj\Debug\net6.0\Struct.Is.As.Training.dll
+E:\Temp_files\C#_training\Struct.Is.As.Training\obj\Debug\net6.0\refint\Struct.Is.As.Training.dll
+E:\Temp_files\C#_training\Struct.Is.As.Training\obj\Debug\net6.0\Struct.Is.As.Training.pdb
+E:\Temp_files\C#_training\Struct.Is.As.Training\obj\Debug\net6.0\Struct.Is.As.Training.genruntimeconfig.cache
+E:\Temp_files\C#_training\Struct.Is.As.Training\obj\Debug\net6.0\ref\Struct.Is.As.Training.dll

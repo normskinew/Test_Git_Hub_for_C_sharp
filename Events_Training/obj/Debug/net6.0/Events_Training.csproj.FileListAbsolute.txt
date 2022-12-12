@@ -1,0 +1,15 @@
+E:\Temp_files\C#_training\ITEA_MO_Project_Civilization\bin\Debug\net6.0\Events_Training.exe
+E:\Temp_files\C#_training\ITEA_MO_Project_Civilization\bin\Debug\net6.0\Events_Training.deps.json
+E:\Temp_files\C#_training\ITEA_MO_Project_Civilization\bin\Debug\net6.0\Events_Training.runtimeconfig.json
+E:\Temp_files\C#_training\ITEA_MO_Project_Civilization\bin\Debug\net6.0\Events_Training.dll
+E:\Temp_files\C#_training\ITEA_MO_Project_Civilization\bin\Debug\net6.0\Events_Training.pdb
+E:\Temp_files\C#_training\ITEA_MO_Project_Civilization\obj\Debug\net6.0\Events_Training.csproj.AssemblyReference.cache
+E:\Temp_files\C#_training\ITEA_MO_Project_Civilization\obj\Debug\net6.0\Events_Training.GeneratedMSBuildEditorConfig.editorconfig
+E:\Temp_files\C#_training\ITEA_MO_Project_Civilization\obj\Debug\net6.0\Events_Training.AssemblyInfoInputs.cache
+E:\Temp_files\C#_training\ITEA_MO_Project_Civilization\obj\Debug\net6.0\Events_Training.AssemblyInfo.cs
+E:\Temp_files\C#_training\ITEA_MO_Project_Civilization\obj\Debug\net6.0\Events_Training.csproj.CoreCompileInputs.cache
+E:\Temp_files\C#_training\ITEA_MO_Project_Civilization\obj\Debug\net6.0\Events_Training.dll
+E:\Temp_files\C#_training\ITEA_MO_Project_Civilization\obj\Debug\net6.0\refint\Events_Training.dll
+E:\Temp_files\C#_training\ITEA_MO_Project_Civilization\obj\Debug\net6.0\Events_Training.pdb
+E:\Temp_files\C#_training\ITEA_MO_Project_Civilization\obj\Debug\net6.0\Events_Training.genruntimeconfig.cache
+E:\Temp_files\C#_training\ITEA_MO_Project_Civilization\obj\Debug\net6.0\ref\Events_Training.dll

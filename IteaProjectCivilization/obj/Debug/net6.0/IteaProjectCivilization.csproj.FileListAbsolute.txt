@@ -1,0 +1,15 @@
+E:\Temp_files\C#_training\IteaProjectCivilization\bin\Debug\net6.0\IteaProjectCivilization.exe
+E:\Temp_files\C#_training\IteaProjectCivilization\bin\Debug\net6.0\IteaProjectCivilization.deps.json
+E:\Temp_files\C#_training\IteaProjectCivilization\bin\Debug\net6.0\IteaProjectCivilization.runtimeconfig.json
+E:\Temp_files\C#_training\IteaProjectCivilization\bin\Debug\net6.0\IteaProjectCivilization.dll
+E:\Temp_files\C#_training\IteaProjectCivilization\bin\Debug\net6.0\IteaProjectCivilization.pdb
+E:\Temp_files\C#_training\IteaProjectCivilization\obj\Debug\net6.0\IteaProjectCivilization.csproj.AssemblyReference.cache
+E:\Temp_files\C#_training\IteaProjectCivilization\obj\Debug\net6.0\IteaProjectCivilization.GeneratedMSBuildEditorConfig.editorconfig
+E:\Temp_files\C#_training\IteaProjectCivilization\obj\Debug\net6.0\IteaProjectCivilization.AssemblyInfoInputs.cache
+E:\Temp_files\C#_training\IteaProjectCivilization\obj\Debug\net6.0\IteaProjectCivilization.AssemblyInfo.cs
+E:\Temp_files\C#_training\IteaProjectCivilization\obj\Debug\net6.0\IteaProjectCivilization.csproj.CoreCompileInputs.cache
+E:\Temp_files\C#_training\IteaProjectCivilization\obj\Debug\net6.0\IteaProjectCivilization.dll
+E:\Temp_files\C#_training\IteaProjectCivilization\obj\Debug\net6.0\refint\IteaProjectCivilization.dll
+E:\Temp_files\C#_training\IteaProjectCivilization\obj\Debug\net6.0\IteaProjectCivilization.pdb
+E:\Temp_files\C#_training\IteaProjectCivilization\obj\Debug\net6.0\IteaProjectCivilization.genruntimeconfig.cache
+E:\Temp_files\C#_training\IteaProjectCivilization\obj\Debug\net6.0\ref\IteaProjectCivilization.dll

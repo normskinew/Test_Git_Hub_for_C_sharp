@@ -12,7 +12,11 @@ namespace IteaProjectCivilization
         public const int maxPopulation = 50000;
         public int CurrentPopulation
         {
-            set { if (value <= 0) CurrentPopulation = 0;}
+            set
+            {
+                if (value <= 0) CurrentPopulation = 0;
+                if (value >= maxPopulation) CurrentPopulation = maxPopulation;
+            }
             get { return CurrentPopulation; }
         }
 
@@ -21,48 +25,40 @@ namespace IteaProjectCivilization
             set { if (value <= 0) AttackPower = 0; }
             get { return AttackPower; }
         }
-        public int Defence
+        public int Defense
         {
-            set { if (value <= 0) Defence = 0; }
-            get { return Defence; }
-        }
-        public int Stamina
-        {
-            set { if (value <= 0) Stamina = 0; }
-            get { return Stamina; }
-        }
-        public int Speed
-        {
-            set { if (value <= 0) Speed = 0; }
-            get { return Speed; }
+            set { if (value <= 0) Defense = 0; }
+            get { return Defense; }
         }
         
-        public event EventHandler OnDisease;
-        public void OnDiseaseFunc()
-        {
-            OnDisease.Invoke(this, EventArgs.Empty);
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-        }
-        public virtual void OnDiseaseDeBuff(int PopPer,int ApPer,int DefPer,int StPer,int SpPer )
-        {
-            AttackPower = AttackPower - (AttackPower * ApPer / 100);
-            Defence = Defence - (Defence * DefPer / 100);
-            Stamina = Stamina - (Stamina * StPer / 100);
-            Speed = Speed - (Speed * SpPer / 100);
-            CurrentPopulation = CurrentPopulation - (CurrentPopulation * PopPer / 100);
 
 
-        }
-        //public virtual void deBuffStarvation(int percentage)
+       
+
+
+
+        //void War(Civilization c1, Civilization c2)
         //{
-        //    AttackPower = AttackPower - (AttackPower * percentage / 100);
-        //    Defence = Defence - (Defence * percentage / 100);
-        //    Stamina = Stamina - (Stamina * percentage / 100);
-        //    Speed = Speed - (Speed * percentage / 100);
-        //    CurrentPopulation = CurrentPopulation - (CurrentPopulation * percentage / 100);
+        //    // Calculate the damage dealt by c1 to c2
+        //    int c1Attack = c1.Attack;
+        //    int c2Defense = c2.Defense;
+        //    int c1Damage = c1Attack - c2Defense;
+        //    if (c1Damage < 0) c1Damage = 0;  // Damage can't be negative
+        //    c2.CurrentPopulation -= c1Damage;  // Reduce c2's population by the damage dealt
+
+        //    // Calculate the damage dealt by c2 to c1
+        //    int c2Attack = c2.Attack;
+        //    int c1Defense = c1.Defense;
+        //    int c2Damage = c2Attack - c1Defense;
+        //    if (c2Damage < 0) c2Damage = 0;  // Damage can't be negative
+        //    c1.CurrentPopulation -= c2Damage;  // Reduce c1's population by the damage dealt
         //}
-        
-        
+        //ublic void Attack(Civilization other)
+        //{
+        //    int damage = this.attack - other.defense;
+        //    if (damage > 0)
+        //    {
+        //        other.population -= damage;
 
 
 

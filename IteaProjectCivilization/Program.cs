@@ -6,6 +6,7 @@ internal class Program
     private static int time = 1000;
     private static int deltatime = 1000;
     private static bool isGamePlay = true;
+    private static int endDay;
     private static void Main(string[] args)
     {
          int rndEventGen()
@@ -25,6 +26,7 @@ internal class Program
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine($"Day: {time / deltatime}");
             time += deltatime;
+            endDay++;
             Thread.Sleep(deltatime);
 
             switch (rndEventGen())
@@ -37,19 +39,21 @@ internal class Program
                     break;
 
             }
-
+            if(endDay == 60)
+            {
+                isGamePlay = false;
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine("Game Over");
+                
+            }
+            
         }
 
-        Thread threadOfAvari = new Thread(() =>
+        Thread threadOfElves = new Thread(() =>
           {
 
-              while (isGamePlay)
-              {
-
-
-              }
           });
-        threadOfAvari.Start();
+        threadOfElves.Start();
     }
 
 

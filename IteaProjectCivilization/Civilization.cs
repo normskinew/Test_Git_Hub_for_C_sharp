@@ -10,25 +10,39 @@ namespace IteaProjectCivilization
     public abstract class Civilization
     {
         public const int maxPopulation = 50000;
+        private int currentPopulation = 0;
+        private int attackPower = 0;
+        private int defense = 0;
         public int CurrentPopulation
         {
             set
             {
-                if (value <= 0) CurrentPopulation = 0;
-                if (value >= maxPopulation) CurrentPopulation = maxPopulation;
+                if (value <= 0) currentPopulation = 0;
+                else if (value >= maxPopulation) currentPopulation = maxPopulation;
+                else currentPopulation = value;
             }
-            get { return CurrentPopulation; }
+            get { return currentPopulation; }
         }
 
         public int AttackPower
         {
-            set { if (value <= 0) AttackPower = 0; }
-            get { return AttackPower; }
+            set 
+            { 
+                if (value <= 0) attackPower = 0;
+                else if (value >= 500) attackPower = 500;
+                else attackPower = value;
+            }
+            get { return attackPower; }
         }
         public int Defense
         {
-            set { if (value <= 0) Defense = 0; }
-            get { return Defense; }
+            set
+            {
+                if (value <= 0) defense = 0;
+                else if (value >= 500) defense = 500;
+                else defense = value;
+            }
+            get { return defense; }
         }
         
 

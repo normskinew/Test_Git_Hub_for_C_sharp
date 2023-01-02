@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
+using System.Security;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -9,10 +10,11 @@ namespace IteaProjectCivilization
 {
     public abstract class Civilization
     {
-        public const int maxPopulation = 50000;
+        public const int maxPopulation = 5000;
         private int currentPopulation = 0;
         private int attackPower = 0;
         private int defense = 0;
+        private int food = 0;
         public int CurrentPopulation
         {
             set
@@ -44,36 +46,42 @@ namespace IteaProjectCivilization
             }
             get { return defense; }
         }
-        
+        public int Food
+        {
+            set
+            {
+                if (value <= 0)
+                {
+                    food = 0;
+                    Console.ForegroundColor = ConsoleColor.Gray;
+                    Console.WriteLine($"The Food resource is reached {food}, Sir, we must work much better, we will die");
+                }
+                else if (value >= 20000)
+                {
+                    food = 20000;
+                    Console.ForegroundColor = ConsoleColor.Gray;
+                    Console.WriteLine($"The Food resource is reached {food}, it's maximun amount, My Lord, i cannot to save more");
+                }
+                else food = value;
 
-
-       
-
-
-
-        //void War(Civilization c1, Civilization c2)
-        //{
-        //    // Calculate the damage dealt by c1 to c2
-        //    int c1Attack = c1.Attack;
-        //    int c2Defense = c2.Defense;
-        //    int c1Damage = c1Attack - c2Defense;
-        //    if (c1Damage < 0) c1Damage = 0;  // Damage can't be negative
-        //    c2.CurrentPopulation -= c1Damage;  // Reduce c2's population by the damage dealt
-
-        //    // Calculate the damage dealt by c2 to c1
-        //    int c2Attack = c2.Attack;
-        //    int c1Defense = c1.Defense;
-        //    int c2Damage = c2Attack - c1Defense;
-        //    if (c2Damage < 0) c2Damage = 0;  // Damage can't be negative
-        //    c1.CurrentPopulation -= c2Damage;  // Reduce c1's population by the damage dealt
-        //}
-        //ublic void Attack(Civilization other)
-        //{
-        //    int damage = this.attack - other.defense;
-        //    if (damage > 0)
-        //    {
-        //        other.population -= damage;
-
+            }
+            get { return food; }
+        }
+        public virtual void resGenPerDay(int food_par)
+        {
+            int res = food * food_par / 100;
+            food += res;
+            
+            Console.ForegroundColor = ConsoleColor.Gray;
+            Console.WriteLine($"Our people earned per day {res} foods");
+        }
+        public virtual void populationGeneration(int populationPerDay)
+        {
+            int addCurrentPopulation = (currentPopulation * populationPerDay / 100);
+            currentPopulation += addCurrentPopulation;
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"This day born {addCurrentPopulation}");
+        }
 
 
     }

@@ -12,18 +12,24 @@ namespace IteaProjectCivilization
     internal class Events
     {
        
-        public event DelegatForEvents? OnDisease,OnStarvation;
+        public event DelegatForEvents? OnDisease,OnStarvation,OnEnginnering;
         public void OnDiseaseFunc()
         {
-            OnDisease?.Invoke(this, new CustomArgs(5));
+            OnDisease?.Invoke(this, new CustomArgs(10));
             
         }
         public void OnStarvationFunc()
         {
-            OnStarvation?.Invoke(this, new CustomArgs(10));
+            OnStarvation?.Invoke(this, new CustomArgs(50));
 
         }
-       public  class CustomArgs : EventArgs
+        public void OnEnginneringFunc()
+        {
+            OnEnginnering?.Invoke(this, new CustomArgs(10));
+
+        }
+
+        public  class CustomArgs : EventArgs
         {
             public int _percentage;
             
